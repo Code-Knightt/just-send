@@ -1,0 +1,6 @@
+[submodule "file-sharing-client"]
+	path = file-sharing-client
+	url = https://github.com/Code-Knightt/file-sharing-client.git
+[submodule "file-sharing-server"]
+	path = file-sharing-server
+	url = https://github.com/Code-Knightt/file-sharing-server.git
